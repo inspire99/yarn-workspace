@@ -1,0 +1,1 @@
+1. how to place a navigation shortcut to a particular line in markdown ? 
